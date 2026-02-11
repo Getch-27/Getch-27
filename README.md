@@ -56,7 +56,6 @@ I build modern web applications using cutting-edge technologies to solve real-wo
 <img src="https://img.shields.io/badge/Artificial_Intelligence-000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode" />
 <img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu" />
 
 </p>
