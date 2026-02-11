@@ -1,88 +1,100 @@
+<h1 align="center">
+  👋 Hi, I'm <span style="color:#4F46E5;">Getahun Fikadu</span>
+</h1>
 
+<h3 align="center">
+Frontend Developer • AI Enthusiast • Problem Solver
+</h3>
 
-<div align="center" style="width: 100%">
-   <h1> <👋 Hi, I’m Getahun Fikadu /> </h1>
-</div>  
-  
+<p align="center">
+I build modern web applications using cutting-edge technologies to solve real-world problems.
+</p>
 
-### <div align="center">I write code as a programmer 👨‍💻 to make software programs and systems that accomplish particular tasks 🚀or address particular issues. </div>  
-  
+---
 
-<br/>  
+## 🚀 Tech Stack
 
+### 🎨 Frontend
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<p align="center">
 
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" />
+<img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux" />
+<img src="https://img.shields.io/badge/Zod-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss" />
+<img src="https://img.shields.io/badge/Material_UI-000?style=for-the-badge&logo=mui" />
+<img src="https://img.shields.io/badge/shadcn/ui-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GSAP-000?style=for-the-badge" />
 
+</p>
 
-### Frontend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</br>
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+---
 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+### ⚙️ Backend
 
-</div>
-<!-- <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>   -->
+<p align="center">
 
-<!-- <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>   -->
+<img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express" />
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+<img src="https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase" />
+<img src="https://img.shields.io/badge/Neo4j-000?style=for-the-badge&logo=neo4j" />
+<img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge" />
 
+</p>
 
-</td><td valign="top" width="33%">
+---
 
+### 🤖 AI & Tools
 
+<p align="center">
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a> 
-</br>
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>   
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
+<img src="https://img.shields.io/badge/Machine_Learning-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode" />
+<img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu" />
 
-</td><td valign="top" width="33%">
+</p>
 
+---
 
+## 📊 GitHub Stats
 
-### Tools 
-<div align="center">  
- 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
- <img  src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg " title="ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg " title="vs code" alt="VsCode" width="40" height="40"/>&nbsp;
-</div>
+<p align="center">
 
-</td></tr></table>  
+<img src="https://github-readme-stats.vercel.app/api?username=Getch-27&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getch-27&layout=compact&theme=tokyonight&hide_border=true" />
 
+</p>
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/Getch-27" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/Getch-27">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
 </a>
-<a href="https://linkedin.com/in/linkedin.com/in/getahun-fikadu" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://mailto:getahunlast@gmail.com" target="_blank">
-   <img src=https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+<a href="https://linkedin.com/in/getahun-fikadu">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
+</a>
 
+<a href="mailto:getahunlast@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail" />
+</a>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getch-27&hide_border=true&layout=compact" align="center" /></div>  
+</p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Getch-27&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-
+<p align="center">
+✨ Always learning • Always building ✨
+</p>
